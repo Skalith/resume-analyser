@@ -1,0 +1,34 @@
+# Environment / secrets
+backend/.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*/venv/
+venv/
+
+# Runtime data / output
+backend/output/
+backend/jobs.db
+*.db
+
+# Frontend / Node.js
+frontend/node_modules/
+frontend/vendor/
+package-lock.json
+npm-debug.log
+dist/
+build/
+
+# OS / editor
+.DS_Store
+*.swp
+plan.md
+working.md
+
+# Your own uploaded resume (personal data)
+backend/resumes/resume.pdf

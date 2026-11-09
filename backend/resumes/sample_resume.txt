@@ -1,0 +1,25 @@
+Alex Morgan
+Senior Python Backend Engineer
+alex.morgan@example.com | +1 555 010 2030 | github.com/example
+
+SUMMARY
+Backend engineer with 5 years of experience building scalable APIs and data
+pipelines with Python, FastAPI, SQL, and Pandas.
+
+SKILLS
+Python, FastAPI, Django, SQL, PostgreSQL, Pandas, NumPy, Git, Docker,
+REST APIs, Redis, Celery, Pytest, AWS, CI/CD
+
+EXPERIENCE
+
+Senior Backend Engineer — CloudServe Inc (2021 - Present)
+- Designed and shipped FastAPI microservices handling 40k RPS.
+- Optimized PostgreSQL queries, cutting p95 latency by 45%.
+- Built ETL pipelines with Pandas for real-time analytics.
+
+Backend Developer — Dataworks Ltd (2019 - 2021)
+- Developed REST APIs in Django and FastAPI for financial products.
+- Automated deployment pipelines with Docker and Git.
+
+EDUCATION
+B.Sc. Computer Science, University of California, 2015 - 2019
